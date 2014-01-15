@@ -5,10 +5,13 @@ Plugin for creating parallax patterns in website sections.
 
 ### Usage:
 
+```javascript
 $("header.primary, footer.primary").tidyParallax();
+```
 
 ### Example:
 
+```html
 <html>
   <head>
     <title>tidyParallax Example</title>
@@ -37,6 +40,7 @@ $("header.primary, footer.primary").tidyParallax();
     </script>
   </body>
 </html>
+```
 
 ### License
 
